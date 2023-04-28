@@ -24,4 +24,4 @@ $ brew install mit-scheme
 [https://github.com/theurere/berkeley_cs61a_spring-2011_archive](https://github.com/theurere/berkeley_cs61a_spring-2011_archive)
 
 ## Other Resources
-
+[SICP-Solutions](http://community.schemewiki.org/?SICP-Solutions)
