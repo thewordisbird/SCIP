@@ -18,10 +18,11 @@ $ brew install mit-scheme
 [Conjure](https://github.com/Olical/conjure/wiki/Quick-start:-Scheme-(stdio)) - Starts an MIT Scheme REPL within Neovim
 
 ## Courses
-[MIT 6.001 Structure And Interpretation Of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
+[Berkeley Computer Science 61A, 001 - Spring 2011](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)
 
-[Berkeley Computer Science 61A, 001 - Spring 2011](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)
 [https://github.com/theurere/berkeley_cs61a_spring-2011_archive](https://github.com/theurere/berkeley_cs61a_spring-2011_archive)
 
 ## Other Resources
 [SICP-Solutions](http://community.schemewiki.org/?SICP-Solutions)
+
+[MIT 6.001 Structure And Interpretation Of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
