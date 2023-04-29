@@ -18,9 +18,9 @@ $ brew install mit-scheme
 [Conjure](https://github.com/Olical/conjure/wiki/Quick-start:-Scheme-(stdio)) - Starts an MIT Scheme REPL within Neovim
 
 ## Course
-I will be following the [Berkeley Computer Science 61A, 001 - Spring 2011](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9) course.
+I will be following the Berkeley Computer Science 61A, 001 - Spring 2011 course.
 
-[Course Reader](https://inst.eecs.berkeley.edu/~cs61a/sp10/0.pdf)
+[Course Reader](https://inst.eecs.berkeley.edu/~cs61a/reader/vol2.html)
 
 | Lecture | Reading | Assignments Due | Notes |
 |---------|---------|-----------------|-------|
