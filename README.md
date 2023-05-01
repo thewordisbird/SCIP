@@ -22,10 +22,10 @@ I will be following the Berkeley Computer Science 61A, 001 - Spring 2011 course.
 
 [Course Reader](https://inst.eecs.berkeley.edu/~cs61a/reader/vol2.html)
 
-| Lecture | Reading | Assignments Due | Notes |
+| Lecture | Reading | Homework | Notes |
 |---------|---------|-----------------|-------|
-| [L01 Functional Programming](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8) | [SICP 1.1](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-10.html#%_sec_1.1) | | |
-| [L02 Functional Programming](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ) | [SICP 1.1](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-10.html#%_sec_1.1) | | |
+| [L01 Functional Programming](https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8) | [SICP 1.1](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-10.html#%_sec_1.1) | [Assignment 1](https://github.com/thewordisbird/SICP/files/11365472/Week1_Homework.pdf) | |
+| [L02 Functional Programming](https://archive.org/details/ucberkeley_webcast_TTK2lZoWbPQ) | | | |
 | [L03 Higher Order Procedures](https://archive.org/details/ucberkeley_webcast_ogIGxEzvnSE) | [SICP 1.3](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-12.html#%_sec_1.3) | | |
 | [L04 Higer Order Procedures](https://archive.org/details/ucberkeley_webcast_ZvH3wF2qg7Q) | [SICP 1.3](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-12.html#%_sec_1.3) | | |
 | [L05 User Interface](https://archive.org/details/ucberkeley_webcast_dC4YGxzoAXk) | [SICP 1.2.1 - 1.2.4](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-11.html#%_sec_1.2) | | |
