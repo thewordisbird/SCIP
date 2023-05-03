@@ -74,3 +74,5 @@ I will be following the Berkeley Computer Science 61A, 001 - Spring 2011 course.
 [SICP-Solutions](http://community.schemewiki.org/?SICP-Solutions)
 
 [MIT 6.001 Structure And Interpretation Of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
+
+[Simply Scheme: Introducing Computer Science](http://people.eecs.berkeley.edu/~bh/ss-toc2.html)
